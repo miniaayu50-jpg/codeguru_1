@@ -1,4 +1,4 @@
-# codeguru_1
+# python code Guru
 first code
 try for code
 ayush
