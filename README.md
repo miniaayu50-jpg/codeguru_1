@@ -1,4 +1,3 @@
 # Python Code Guru
-first code
-try for code
-ayush
+practice code
+try to learn
